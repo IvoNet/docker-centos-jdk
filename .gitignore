@@ -7,9 +7,3 @@ node_modules
 target
 __pycache__
 *.tar.gz
-.idea
-*.iml
-node_modules
-.DS_Store
-target
-__pycache__
