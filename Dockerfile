@@ -9,7 +9,7 @@ RUN yum -y update \
  && yum -y install \
      inotify-tools \
      unzip \
-     zulu11-jdk \
+     zulu17-jdk \
  && yum clean all \
  && rm -rf /etc/ld.so.cache
 
